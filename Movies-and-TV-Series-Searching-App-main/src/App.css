@@ -1,0 +1,18 @@
+body {
+  font-family: Cinzel;
+}
+#app {
+ 
+  padding-top: 123px;
+  padding-bottom: 70px;
+}
+
+@media (max-width: 700px) {
+  .app {
+    padding-top: 120px;
+  }
+}
+
+* {
+  scroll-behavior: smooth;
+}
